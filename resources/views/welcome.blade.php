@@ -156,7 +156,7 @@
 <main class="form-signin w-100 m-auto text-center">
   <form method="post" action="/store">
     @csrf
-    <img class="mb-4" src="/image/logo.jfif" alt="" width="72" >
+    <img class="mb-4" src="/image/logo.png" alt="" width="72" >
     <h1 class="h3 mb-3 fw-normal center">ZooGame</h1>
 
     <div class="form-floating">

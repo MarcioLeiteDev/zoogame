@@ -196,38 +196,224 @@
                 <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasNavbar2"
                     aria-labelledby="offcanvasNavbar2Label">
                     <div class="offcanvas-header">
-                        <h5 class="offcanvas-title" id="offcanvasNavbar2Label">Offcanvas</h5>
+                        <h5 class="offcanvas-title" id="offcanvasNavbar2Label">ZooGame</h5>
                         <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas"
                             aria-label="Close"></button>
                     </div>
                     <div class="offcanvas-body">
                         <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
-                            <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="#">Home</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">Link</a>
-                            </li>
+
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" role="button"
                                     data-bs-toggle="dropdown" aria-expanded="false">
-                                    Dropdown
+                                    Operacional
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="#">Action</a></li>
-                                    <li><a class="dropdown-item" href="#">Another action</a></li>
-                                    <li>
-                                        <hr class="dropdown-divider">
-                                    </li>
-                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                    <li><a class="dropdown-item" href="#">Estados</a></li>
+                                    <li><a class="dropdown-item" href="#">Cidades</a></li>
+                                    <li><a class="dropdown-item" href="#">Cotadas</a></li>
+                                    <li><a class="dropdown-item" href="#">Config</a></li>
+                                    <li><a class="dropdown-item" href="#">Avisos</a></li>
+                                    <li><a class="dropdown-item" href="#">Gerais</a></li>
+                                    <li><a class="dropdown-item" href="#">Recolhe</a></li>
+                                    <li><a class="dropdown-item" href="#">Loterias</a></li>
+                                    <li><a class="dropdown-item" href="#">LoteriasAtiva/Desativa</a></li>
+                                    <li><a class="dropdown-item" href="#">Bancado caixa</a></li>
+                                    <li><a class="dropdown-item" href="#">Cotações</a></li>
+                                    <li><a class="dropdown-item" href="#">Contas e Despesas</a></li>
+                                    <li><a class="dropdown-item" href="#">Cambistas</a></li>
+                                    <li><a class="dropdown-item" href="#">Chips</a></li>
+                                    <li><a class="dropdown-item" href="#">Excluir Cambistas</a></li>
+                                    <li><a class="dropdown-item" href="#">Procurar IMEI</a></li>
+                                    <li><a class="dropdown-item" href="#">Jogos</a></li>
+                                    <li><a class="dropdown-item" href="#">Cambistas B</a></li>
+                                    <li><a class="dropdown-item" href="#">Descargas</a></li>
+                                    <li><a class="dropdown-item" href="#">Referencias</a></li>
+                                    <li><a class="dropdown-item" href="#">Aluguel Ajudas</a></li>
+                                    <li><a class="dropdown-item" href="#">Cadastro Emprestimos</a></li>
+                                    <li><a class="dropdown-item" href="#">Participações</a></li>
+                                    <li><a class="dropdown-item" href="#">Usuarios</a></li>
+                                    
                                 </ul>
                             </li>
+
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                    Descarga
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="#">Descarg</a></li>
+                                    <li><a class="dropdown-item" href="#">Relatorios</a></li>
+                                    <li><a class="dropdown-item" href="#">Lançamento</a></li>
+   
+                                    
+                                </ul>
+                            </li>
+
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                    Movimento Diário
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="#">Apuração</a></li>
+                                    <li><a class="dropdown-item" href="#">Cadastro de resultados</a></li>
+                                    <li><a class="dropdown-item" href="#">Validar premios</a></li>
+                                    <li><a class="dropdown-item" href="#">Enviar premios</a></li>
+                                    <li><a class="dropdown-item" href="#">Consulta</a></li>
+                                    <li><a class="dropdown-item" href="#">Excluir jogos</a></li>
+                                    <li><a class="dropdown-item" href="#">Movimento</a></li>
+                                    <li><a class="dropdown-item" href="#">pagamento de comissao retida</a></li>
+                                    <li><a class="dropdown-item" href="#">Relatório de fechamento</a></li>
+                                    <li><a class="dropdown-item" href="#">Relatório de fechamento</a></li>
+                                    <li><a class="dropdown-item" href="#">Relatório de cobrança</a></li>
+                                    <li><a class="dropdown-item" href="#">Relatório geral</a></li>
+                                    <li><a class="dropdown-item" href="#">Relatório geral vendas</a></li>
+                                    <li><a class="dropdown-item" href="#">Relatório Referencias</a></li>
+                                    <li><a class="dropdown-item" href="#">Relatório de deve</a></li>
+                                    <li><a class="dropdown-item" href="#">Pules</a></li>
+                                    <li><a class="dropdown-item" href="#">Premios</a></li>
+                                    <li><a class="dropdown-item" href="#">Folhas </a></li>
+                                    <li><a class="dropdown-item" href="#">Folha periodo</a></li>
+                                    <li><a class="dropdown-item" href="#">Simples</a></li>
+                                    <li><a class="dropdown-item" href="#">Entradas e saidas</a></li>
+                                    <li><a class="dropdown-item" href="#">Vendas por cambista</a></li>
+                                    <li><a class="dropdown-item" href="#">Comissoes recolhe/geral</a></li>
+                                    <li><a class="dropdown-item" href="#">loguin</a></li>
+                                    <li><a class="dropdown-item" href="#">Capas</a></li>
+                                    <li><a class="dropdown-item" href="#">Capas 2</a></li>
+                                    <li><a class="dropdown-item" href="#">Capas 3</a></li>
+                                    <li><a class="dropdown-item" href="#">Cambistas validos</a></li>
+                                    
+                                </ul>
+                            </li>
+
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                    Relatorios
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="#">Saldo gerais</a></li>
+                                    <li><a class="dropdown-item" href="#">saldo gerais venda</a></li>
+                                    <li><a class="dropdown-item" href="#">Acumulado gerais</a></li>
+                                    <li><a class="dropdown-item" href="#">venda de cambista por geral</a></li>
+                                    <li><a class="dropdown-item" href="#">venda anual </a></li>
+                                    <li><a class="dropdown-item" href="#">referencia vendas</a></li>
+                                    <li><a class="dropdown-item" href="#">venda anual por referencia vendas</a></li>
+                                    <li><a class="dropdown-item" href="#">cambistas por recolhe</a></li>
+                                    <li><a class="dropdown-item" href="#">cobranca por recolhe</a></li>
+                                    <li><a class="dropdown-item" href="#">premios</a></li>
+                                    <li><a class="dropdown-item" href="#">lembretes</a></li>
+                                    <li><a class="dropdown-item" href="#">cambista por periodo</a></li>
+                                    <li><a class="dropdown-item" href="#">folha movimento</a></li>
+                                    <li><a class="dropdown-item" href="#">ajuda cambista</a></li>
+                                    <li><a class="dropdown-item" href="#">pesquisa </a></li>
+                                    <li><a class="dropdown-item" href="#">deve cambista por recolhe </a></li>
+                                    <li><a class="dropdown-item" href="#">emprestimos </a></li>
+                                    <li><a class="dropdown-item" href="#">sem movimento </a></li>
+                                    <li><a class="dropdown-item" href="#">lancamento de despesas </a></li>
+                                    <li><a class="dropdown-item" href="#">despesas programadas  </a></li>
+                                   
+                                    
+                                </ul>
+                            </li>
+
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                    Lançamentos
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="#">Lancamentos de despeas</a></li>
+                                    <li><a class="dropdown-item" href="#">Lancamentos de cambista</a></li>
+                                    <li><a class="dropdown-item" href="#">Lancamento de premios</a></li>
+                                    <li><a class="dropdown-item" href="#">lancamento de dinheiro</a></li>
+                                    <li><a class="dropdown-item" href="#">Lancamento manual </a></li>
+                                    <li><a class="dropdown-item" href="#">Lancamento de venda</a></li>
+                                    <li><a class="dropdown-item" href="#">Lancamento no geral</a></li>
+                                    <li><a class="dropdown-item" href="#">Lancamentos de saida</a></li>
+                                    <li><a class="dropdown-item" href="#">Enviar dinheiro recolhe</a></li>
+                                    <li><a class="dropdown-item" href="#">lembretes</a></li>
+                                    <li><a class="dropdown-item" href="#">Jogos</a></li>
+                                    <li><a class="dropdown-item" href="#">emprestimos</a></li>
+                                    <li><a class="dropdown-item" href="#">despesas programadas</a></li>
+                                   
+                                    
+                                </ul>
+                            </li>
+
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                    Quina
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="#">concurso</a></li>
+                                    <li><a class="dropdown-item" href="#">resultados</a></li>
+                                    <li><a class="dropdown-item" href="#">apuracao</a></li>
+                                    <li><a class="dropdown-item" href="#">descarga </a></li>
+                                    <li><a class="dropdown-item" href="#">descarga local </a></li>
+                                    <li><a class="dropdown-item" href="#">vendas</a></li>                               
+                                    
+                                </ul>
+                            </li>
+
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                    Seninha
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="#">concurso</a></li>
+                                    <li><a class="dropdown-item" href="#">resultados</a></li>
+                                    <li><a class="dropdown-item" href="#">apuracao</a></li>
+                                    <li><a class="dropdown-item" href="#">descarga </a></li>
+                                    <li><a class="dropdown-item" href="#">descarga local </a></li>
+                                    <li><a class="dropdown-item" href="#">vendas</a></li>                               
+                                    
+                                </ul>
+                            </li>
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                    Super Loto
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="#">concurso</a></li>
+                                    <li><a class="dropdown-item" href="#">resultados</a></li>
+                                    <li><a class="dropdown-item" href="#">apuracao</a></li>
+                                    <li><a class="dropdown-item" href="#">descarga </a></li>
+                                    <li><a class="dropdown-item" href="#">descarga local </a></li>
+                                    <li><a class="dropdown-item" href="#">vendas</a></li>                               
+                                    
+                                </ul>
+                            </li>
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                    Bolão
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="#">concurso</a></li>
+                                    <li><a class="dropdown-item" href="#">inserir resultados</a></li>
+                                                               
+                                    
+                                </ul>
+                            </li>
+
+
                         </ul>
-                        <form class="d-flex mt-3 mt-lg-0" role="search">
-                            <input class="form-control me-2" type="search" placeholder="Search"
-                                aria-label="Search">
-                            <button class="btn btn-outline-success" type="submit">Search</button>
-                        </form>
+                       
                     </div>
                 </div>
             </div>
