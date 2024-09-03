@@ -9,6 +9,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::controller(TesteController::class)->prefix('/')->as('.')->group(function(){
     Route::get('/' , 'index')->name('index');
+    Route::get('/sair' , 'sair')->name('sair');
     Route::post('/store' , 'store')->name('store');
 });
 
